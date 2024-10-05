@@ -114,6 +114,7 @@ or
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
+![Screenshot 2024-10-05 131915](https://github.com/user-attachments/assets/cf243f90-36ad-4761-8f1b-cfa75dcd196c)
 
 ### Fig 7: Nclaunch Window
 
@@ -133,6 +134,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code 
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
+
 
 ### Fig 8: Compiled database in worklib
 
@@ -156,6 +158,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 5.	It also establishes net connectivity and prepares all of this for simulation
    
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
+![Screenshot 2024-10-05 131915](https://github.com/user-attachments/assets/4dcaf838-16b7-44ed-908f-563b95c24347)
 
 ### Fig 9: Elaboration Launch Option
 
@@ -168,10 +171,12 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	Simulation allow to dump design and test bench signals into a waveform 
 
 	Steps for simulation – Run the simulation command with simulator options
-
+![Screenshot 2024-10-05 132012](https://github.com/user-attachments/assets/1003a3ab-b213-4c9f-a6c5-94770338ca15)
 ### Fig 10: Design Browser window for simulation
+![Screenshot 2024-10-05 132846](https://github.com/user-attachments/assets/631b88d0-3e6f-4c6e-9ca3-51702a8cb496)
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
+![Screenshot 2024-10-05 132038](https://github.com/user-attachments/assets/f43bd594-2372-4855-aca1-06ad8b24154c)
 
 ### Fig 12: Simulation Waveform Window
 
