@@ -114,8 +114,7 @@ or
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
-![Screenshot 2024-10-05 131915](https://github.com/user-attachments/assets/cf243f90-36ad-4761-8f1b-cfa75dcd196c)
-
+![Screenshot 2024-10-05 133120](https://github.com/user-attachments/assets/f6da9db3-0899-4db5-91ed-950071649f30)
 ### Fig 7: Nclaunch Window
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
